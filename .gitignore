@@ -1,0 +1,7 @@
+﻿.hkmanaged
+.hkmanaged/
+/.idea/
+*.DotSettings.user
+Charmify/.idea/
+Charmify/bin/
+Charmify/obj/
